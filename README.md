@@ -2,9 +2,9 @@
 # This is my attempt to create a UI-UX design 
 
 This Project consists of a UI-UX design for a tourism and knowledge website for egypt. Being my first step to UI-UX design I require some help in the javascript of this website if you could please help me out. Cheers!
-## The Demo of working
+## The Demo of working page
 
-This is how the programme looks like when done in function
+This is how the page looks like when in function
 
 ![Egypt-pyramids-Google-Chrome-202](https://user-images.githubusercontent.com/71783722/128968773-021dbadf-6e0c-4019-95dc-10ce2f94e9d4.gif)
 ## FAQ
